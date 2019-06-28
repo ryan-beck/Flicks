@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Flicks</string>
+    <color name="background">#303030</color>
 </resources>
