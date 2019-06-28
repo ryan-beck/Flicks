@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some issues trying to figure out the constraints for the horizontal layout. I was able to get help from peers to gain a better understanding on constraints.
 
 ## Open-source libraries used
 
