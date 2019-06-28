@@ -32,8 +32,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/ryan-beck/Flicks/blob/master/app/flicks_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 I had some issues trying to figure out the constraints for the horizontal layout. I was able to get help from peers to gain a better understanding on constraints.
